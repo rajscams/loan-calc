@@ -1,0 +1,29 @@
+.loan-calculator-container {
+    font-size: 18px;
+    width: 600px;
+    text-align: left;
+}
+ 
+.form-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid grey;
+    padding: 2px;
+}
+ 
+.form-action{
+    text-align: center;
+}
+ 
+.calculate-button{
+    background-color: rgb(11,17,172);
+    color: white;
+    cursor: pointer;
+ 
+}
+ 
+.calculate-button:hover {
+    background-color: rgb(24, 26, 27)
+    ;
+}
